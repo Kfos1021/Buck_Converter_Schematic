@@ -18,7 +18,7 @@ Capacitor: 100 µF
 
 Load Resistor: 10 Ω
 
-Project Includes:
+**Project Includes:**
 
 -LTSpice Schematic: buck_converter.asc
 
