@@ -1,4 +1,4 @@
-#Buck Converter Schematic
+# Buck Converter Schematic
 
 This is a design and simulation of a topside buck converter made in LTSpice. The schematic includes an N-Channel MOSFET, voltage source, PULSE source, diode, inductor, resistor, and output capacitor.
 
